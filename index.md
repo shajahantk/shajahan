@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to My Webpage
 
-You can use the [editor on GitHub](https://github.com/shajahantk/shajahan/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am an assistant professor in the Department of Physics, National Institute of Technology Karnataka (https://physics.nitk.ac.in/).
 
 ### Markdown
 
