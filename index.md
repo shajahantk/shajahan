@@ -1,6 +1,6 @@
 ## Welcome to My Webpage
 
-I am an assistant professor in the Department of Physics, National Institute of Technology Karnataka (https://physics.nitk.ac.in/).
+I am an assistant professor in the [Department of Physics, National Institute of Technology Karnataka](https://physics.nitk.ac.in/).
 
 ### Markdown
 
